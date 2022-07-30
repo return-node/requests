@@ -1,0 +1,33 @@
+name: Return Node
+description: Submit a new and exiting return node module
+title: "[New Return Node]: "
+labels: ["enhancement"]
+assignees:
+  - mauro-balades
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: language
+    attributes:
+      label: Language Name
+      description: Name of the programming language it is written in
+      placeholder: Python
+    validations:
+      required: true
+  - type: textarea
+    id: return-node
+    attributes:
+      description: Your return node module code
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Duplication
+      description: I have checked that this language does not currently exist in the organization's repositories
+      options:
+        - label: I had checked, no languages with this name exist
+          required: true
