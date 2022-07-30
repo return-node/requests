@@ -1,14 +1,9 @@
 # Requests
 Submit new languages! 
 
-Create a pull request with the following format:
+Create issues with the "new node" template. You can submit your own programming languages with your own `return-nodes`.
 
-```
-# [Language] 
+### Out of inspiration?
 
-\```
-[code] 
-\```
-```
+checkout this reddit post for inspiration: https://www.reddit.com/r/ProgrammerHumor/comments/wbvddf/return_node/
 
-Todo: add an issue template
