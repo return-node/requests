@@ -1,7 +1,7 @@
 # Requests
 Submit new languages! 
 
-Create issues with the "new node" template. You can submit your own programming languages with your own `return-nodes`.
+Create issues with the ["new node" template](https://github.com/return-node/requests/issues/new?assignees=mauro-balades&labels=enhancement&template=return-node.yml&title=%5BNew+Return+Node%5D%3A+). You can submit your own programming languages with your own `return-nodes`.
 
 ### Out of inspiration?
 
