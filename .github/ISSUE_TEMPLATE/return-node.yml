@@ -20,6 +20,7 @@ body:
   - type: textarea
     id: return-node
     attributes:
+      label: code
       description: Your return node module code
     validations:
       required: true
